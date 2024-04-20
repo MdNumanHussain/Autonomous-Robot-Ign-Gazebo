@@ -21,7 +21,7 @@
       <uri>../models/ground_plane</uri>
     </include>
     <include>
-      <uri>../models/my_robot</uri>
+      <uri>../models/new</uri>
     </include>
   </world>
 </sdf>
